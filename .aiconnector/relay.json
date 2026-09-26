@@ -1,0 +1,8 @@
+{
+  "schema": "aiconnector.relay.v1",
+  "repository": "Kirrito-k423/AIConnector-Relay",
+  "namespace": "experiments-v1",
+  "layout": "task-issues-run-releases-v1",
+  "protocol": "aiconnector.task.v1",
+  "max_artifact_bytes": 5242879
+}
